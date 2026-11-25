@@ -3,7 +3,7 @@
   "name": "module-billing-virtualmin",
   "display_name": "Billing Virtualmin",
   "description": "Optional Virtualmin hosting account adapter.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "adapter",
   "provider": "Liberu\\Billing\\Virtualmin\\VirtualminServiceProvider",
   "requires": {
